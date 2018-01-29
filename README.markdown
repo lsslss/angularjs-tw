@@ -1,5 +1,7 @@
 ﻿#AngularJS
 
+fork from <https://github.com/MrOrz/angularjs-tw>
+
 ![AngularJS](figure/angularjs-book.jpg)
 
 "AngularJS"中譯本 -《AngularJS》
