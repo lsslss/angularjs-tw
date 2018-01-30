@@ -1,4 +1,4 @@
-﻿#AngularJS
+# AngularJS
 
 fork from <https://github.com/MrOrz/angularjs-tw>
 
@@ -13,9 +13,9 @@ fork from <https://github.com/MrOrz/angularjs-tw>
 
 **************************
 
-#目錄
+# 目錄
 
-##第1章 AngularJS簡介
+## 第1章 AngularJS簡介
 
 + 概念
   + 客戶端樣板
@@ -26,7 +26,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
 + 範例: 購物車
 + 小結
 
-##第2章 AngularJS應用程式剖析
+## 第2章 AngularJS應用程式剖析
 
 + 引用Angular
   + 加載腳本
@@ -60,7 +60,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
 + 驗證用戶輸入
 + 小結
 
-##第3章 AngularJS開發
+## 第3章 AngularJS開發
 
 + 專案架構
 + 工具
@@ -85,7 +85,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
   + 構建項目
 + 使用RequireJS整合AngularJS
 
-##第4章 分析一個AngularJS應用程式
+## 第4章 分析一個AngularJS應用程式
 
 + 應用程式
 + 模型, 控制器和樣板之間的關係
@@ -99,7 +99,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
   + 單元測試
   + 腳本測試
     
-##第5章 與伺服器通信
+## 第5章 與伺服器通信
 
 + $http通信
   + 進一步配置請求
@@ -119,7 +119,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
   + JSON漏洞
   + XSRF
   
-##第6章 指令
+## 第6章 指令
 
 + 指令和HTML驗證
 + API預覽
@@ -131,7 +131,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
   + 控制器
 + 小結
 
-##第7章 其他關注
+## 第7章 其他關注
 
 + $location
   + HTML5模式和Hashbang模式
@@ -148,7 +148,7 @@ fork from <https://github.com/MrOrz/angularjs-tw>
 + 淨化HTML和模組
   + Linky
   
-##第8章 備忘單和訣竅
+## 第8章 備忘單和訣竅
 
 + 包裝jQuery Datepicker
   + ng-model
@@ -168,6 +168,6 @@ fork from <https://github.com/MrOrz/angularjs-tw>
 
 *************
 
-##索引
+## 索引
 
 > 譯者按: 粗譯, 如有理解錯誤還煩請大家糾正. 可以提交pull request, 也可以在issues中提出修正意見, 同時也可以給我發[郵件](mailto:270842722@qq.com)提出修正意見. 
